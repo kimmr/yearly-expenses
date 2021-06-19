@@ -1,6 +1,7 @@
 import './ExpenseFilter.css';
 
 const ExpenseFilter = (props) => {
+    
   const yearFilterHandler = (event) => {
     props.onSendAYear(event.target.value);
   };
