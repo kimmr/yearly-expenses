@@ -1,0 +1,30 @@
+.bar {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bar__inner {
+  height: 100%;
+  width: 100%;
+  border: 1px solid #ace0f9;
+  border-radius: 12px;
+  background-color: white;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.bar__fill {
+  background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+  width: 100%;
+  transition: all 0.3s ease-out;
+}
+
+.bar__label {
+  font-weight: bold;
+  font-size: 0.5rem;
+  text-align: center;
+}

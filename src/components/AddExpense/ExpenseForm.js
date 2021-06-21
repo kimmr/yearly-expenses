@@ -49,7 +49,7 @@ const ExpenseForm = (props) => {
     setNewValues({
       newTitle: '',
       newPrice: '',
-      newDate: '',      
+      newDate: '',
     });
   };
 
@@ -86,7 +86,10 @@ const ExpenseForm = (props) => {
         </div>
       </div>
       <div className="add-expense__actions">
-        <button type="submit">Add</button>
+        <button type="button" onClick={props.onBack}>
+          Back
+        </button>
+        <button type="submit" >Add</button>
       </div>
     </form>
   );
