@@ -15,7 +15,7 @@ Project is created with:
 * HTML/CSS
 
 ## Screenshots
-![image] (https://github.com/kimmr/yearly-expenses/screenshot.png)
+![image] (https://github.com/kimmr/yearly-expenses/blob/master/screenshot.png)
 	
 ## Setup
 To run this project, install it locally using npm:
