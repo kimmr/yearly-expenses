@@ -15,7 +15,8 @@ Project is created with:
 
 ## Screenshots
 <div align="center">
-    <img src="https://github.com/kimmr/yearly-expenses/blob/master/screenshot.png" width="400px"</img> 
+    <img src="https://github.com/kimmr/yearly-expenses/blob/master/screenshot.png" width="400px"</img>
+    <img src="https://github.com/kimmr/yearly-expenses/blob/master/screenshot2.png" width="400px"</img> 
 </div>
 
 	
