@@ -1,4 +1,4 @@
-# my-merch-shop
+# yearly-expenses
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
